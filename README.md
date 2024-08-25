@@ -2,8 +2,8 @@
 
 **Sky Hopper** is a Python-based Flappy Bird clone developed with the Pygame library. Navigate a bird through an endless series of pipes by tapping the space bar to flap and avoid obstacles. This game features dynamic pipe generation, a scoring system, and a game over screen.
 
-![Sky Hopper](![flappybird](https://github.com/user-attachments/assets/6050c97d-b8ec-409d-b8bf-413a00a5b8c2)
-)  <!-- Replace with your image URL -->
+![Sky Hopper](https://github.com/gauravkumarphogat/sky-hopper/blob/flappy_bird/flappybird.png)
+)  
 
 ## Features
 
